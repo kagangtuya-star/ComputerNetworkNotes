@@ -9,6 +9,8 @@ md文件为个人笔记
 
 笔记点击上面的md文件就可以看到
 
+https://www.yuque.com/kagangtuya/computer_network_notes
+国内请访问语雀
 #### 笔记目录
 
 [第一章 基础知识](https://github.com/kagangtuya-star/ComputerNetworkNotes/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%BE%AE%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0%E7%AC%AC%E4%B8%80%E7%AB%A0.md) 
