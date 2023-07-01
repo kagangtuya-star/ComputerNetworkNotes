@@ -24,3 +24,5 @@ https://www.yuque.com/kagangtuya/computer_network_notes
 [第五章 运输层](https://github.com/kagangtuya-star/ComputerNetworkNotes/blob/main/计算机网络微课堂笔记第五章.md)
 
 [第六章 应用层](https://github.com/kagangtuya-star/ComputerNetworkNotes/blob/main/计算机网络微课堂笔记第六章.md)
+
+~~老贾看到快学习~~
